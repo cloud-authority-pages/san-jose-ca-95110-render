@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: san-jose-ca-95110
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
