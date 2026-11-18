@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://san-jose-ca-95110.onrender.com/sitemap.xml
+Sitemap: https://san-jose-ca-95110.onrender.com/san-jose-property-management/sitemap.xml
